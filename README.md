@@ -29,8 +29,8 @@ This is a simple Telegram bot built using Aiogram 3.x. The bot sends various typ
 
 3. Create a .env file and add your bot token:
    ```sh
-BOT_TOKEN=your_bot_token_here
-CHAT_ID=-1001234567890  # Replace with your group chat ID
+    BOT_TOKEN=your_bot_token_here
+    CHAT_ID=-1001234567890  # Replace with your group chat ID
 
 4. Run the bot:
     ```sh
